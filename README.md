@@ -16,6 +16,6 @@ Cocoapods (v1.11.3 preferred)
 
 ### What this project has:
 
-- This project has video caching mechanism for HLS video format.
+- This project has video caching mechanism for HLS video format (.m3u8).
 - It can cache any HLS video URL on iPhone and user can also clear cache.
 - See 'PlayerViewController' for the caching mechanism code.
